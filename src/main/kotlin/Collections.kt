@@ -28,10 +28,9 @@ fun main(){
 //    }
 
 //    map -> stores values with unique key, access via key not index, key should be unique but values could be same
-
-    val student = mapOf(100 to "monika", 3 to "monika")
-//    println(student[100])
 //    println(student)
+    val student = mapOf(100 to "monika", 3 to "monika")
+//    println(student[1
     student.forEach{
         println(it)
     }
