@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36677ad5-f67a-4f1c-8263-e204686671b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BasicErrorHandling.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/higherOrderFunction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lamdaExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/parameterargument.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BasicErrorHandling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/BasicErrorHandling.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
