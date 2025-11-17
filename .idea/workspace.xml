@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36677ad5-f67a-4f1c-8263-e204686671b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Quiz.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BasicErrorHandling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/BasicErrorHandling.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.BasicErrorHandlingKt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.QuizKt">
     <configuration name="BasicErrorHandlingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicErrorHandlingKt" />
-      <module name="NovClass" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QuizKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuizKt" />
+      <module name="NovClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.QuizKt" />
         <item itemvalue="Kotlin.BasicErrorHandlingKt" />
         <item itemvalue="Kotlin.HigherOrderFunctionKt" />
         <item itemvalue="Kotlin.LamdaExpressionKt" />
         <item itemvalue="Kotlin.ParameterargumentKt" />
-        <item itemvalue="Kotlin.FunctionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,5 +119,12 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NovClass$BasicErrorHandlingKt.ic" NAME="BasicErrorHandlingKt Coverage Results" MODIFIED="1763291517520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
