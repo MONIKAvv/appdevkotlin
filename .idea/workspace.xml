@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36677ad5-f67a-4f1c-8263-e204686671b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Abstraction.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Encapsulation.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Inheritance.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Interface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Polymorphism.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/AbstractClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/DataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/Generic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/OrderStatus.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/SealedClasses.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/Singleton.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +21,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin Interface" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Sealed Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -46,37 +50,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InterfaceKt">
-    <configuration name="EncapsulationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EncapsulationKt" />
+  <component name="RunManager" selected="Kotlin.GenericKt">
+    <configuration name="AbstractClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.AbstractClassKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
+    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.DataClassKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterfaceKt" />
+    <configuration name="GenericKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.GenericKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPKt" />
+    <configuration name="OrderStatusKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.OrderStatusKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PolymorphismKt" />
+    <configuration name="SealedClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.SealedClassesKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.InterfaceKt" />
-        <item itemvalue="Kotlin.PolymorphismKt" />
-        <item itemvalue="Kotlin.InheritanceKt" />
-        <item itemvalue="Kotlin.EncapsulationKt" />
-        <item itemvalue="Kotlin.OOPKt" />
+        <item itemvalue="Kotlin.GenericKt" />
+        <item itemvalue="Kotlin.SealedClassesKt" />
+        <item itemvalue="Kotlin.OrderStatusKt" />
+        <item itemvalue="Kotlin.AbstractClassKt" />
+        <item itemvalue="Kotlin.DataClassKt" />
       </list>
     </recent_temporary>
   </component>
