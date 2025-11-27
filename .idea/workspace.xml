@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36677ad5-f67a-4f1c-8263-e204686671b1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/AbstractClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/DataClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/Generic.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/OrderStatus.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/SealedClasses.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/Singleton.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeSheet/BasicProgram/basic.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeSheet/ConditionalStmt/program.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeSheet/Function/program.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeSheet/Loops/program.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeSheet/MiniProject/rockpaperscissor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeSheet/NullSafety/program.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PracticeSheet/VariableDT/program.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/CompanionObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/oops/Varience.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/oops/Singleton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/oops/Singleton.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,37 +54,37 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.GenericKt">
-    <configuration name="AbstractClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.AbstractClassKt" />
+  <component name="RunManager" selected="Kotlin.ProgramKt (4)">
+    <configuration name="ProgramKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeSheet.NullSafety.ProgramKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.DataClassKt" />
+    <configuration name="ProgramKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeSheet.ConditionalStmt.ProgramKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.GenericKt" />
+    <configuration name="ProgramKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeSheet.Loops.ProgramKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderStatusKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.OrderStatusKt" />
+    <configuration name="ProgramKt (4)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeSheet.Function.ProgramKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SealedClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.SealedClassesKt" />
+    <configuration name="RockpaperscissorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PracticeSheet.MiniProject.RockpaperscissorKt" />
       <module name="NovClass" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.GenericKt" />
-        <item itemvalue="Kotlin.SealedClassesKt" />
-        <item itemvalue="Kotlin.OrderStatusKt" />
-        <item itemvalue="Kotlin.AbstractClassKt" />
-        <item itemvalue="Kotlin.DataClassKt" />
+        <item itemvalue="Kotlin.ProgramKt (4)" />
+        <item itemvalue="Kotlin.ProgramKt (3)" />
+        <item itemvalue="Kotlin.RockpaperscissorKt" />
+        <item itemvalue="Kotlin.ProgramKt (2)" />
+        <item itemvalue="Kotlin.ProgramKt (1)" />
       </list>
     </recent_temporary>
   </component>

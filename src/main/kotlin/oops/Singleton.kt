@@ -1,7 +1,7 @@
 package oops
 
 object Singleton {
-    val databaseName = "App DB"
+    var databaseName = "App DB"
 
     fun connect(){
         println("Database connected to $databaseName")
@@ -10,5 +10,6 @@ object Singleton {
 }
 
 fun main(){
+    Singleton.databaseName = "mysql"
     Singleton.connect()
 }
